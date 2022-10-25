@@ -1,0 +1,21 @@
+.flex_container{
+    box-sizing: border-box;
+    min-height: 15vh;
+    gap: 100px;
+    display: flex;
+    font-family: Arial, Helvetica, sans-serif;
+    align-items: flex-end;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+    background-color: rgb(36, 199, 36);
+   
+}
+input{
+    height: 70px;
+    width: 300px;
+    border-radius: 50px;
+}
+
+.imgcenter{
+    text-align: center;
+}
