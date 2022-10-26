@@ -1,0 +1,16 @@
+.flex_container{
+    box-sizing: border-box;
+    min-height: 15vh;
+    gap: 100px;
+    display: flex;
+    font-family: Arial, Helvetica, sans-serif;
+    align-items: flex-end;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+    background-color: rgb(118, 245, 107);
+}
+
+body{
+    background-image: url();
+    background-size: cover;
+}
