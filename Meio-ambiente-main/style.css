@@ -1,0 +1,26 @@
+.flex_container{
+    box-sizing: border-box;
+    min-height: 15vh;
+    gap: 100px;
+    display: flex;
+    font-family: Arial, Helvetica, sans-serif;
+    align-items: flex-end;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+    background-color: rgb(0, 0, 0);
+    font-size: color:(163, 169, 94)
+}
+
+body{
+    background-image: url();
+    background-size: cover;
+}
+
+.conteúdo {
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    font-size: 20px;
+}
+.conteúdo2 {
+    font-size: 18px;
+}
