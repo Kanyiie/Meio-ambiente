@@ -35,3 +35,10 @@ body{
 a {
     display: block;
 }
+
+input {
+    background-color: rgb(235, 205, 186);
+    font-size: 30px;
+    align-items: center;
+    cursor: pointer;
+}
